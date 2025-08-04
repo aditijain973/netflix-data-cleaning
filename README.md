@@ -1,6 +1,6 @@
 # Netflix Data Cleaning (Excel)
 
-This project involves manual data cleaning and preprocessing of a **Netflix Movies & TV Shows dataset (100 records)** as part of a Data Analyst Internship task.
+This task involves manual data cleaning and preprocessing of a **Netflix Movies & TV Shows dataset (100 records)** as part of a Data Analyst Internship task day 1.
 
 ## 📝 Task Objectives:
 - Clean raw data with null values, duplicates & inconsistent formats.
